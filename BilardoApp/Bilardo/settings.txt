@@ -1,0 +1,20 @@
+Ad:Bilardo
+Masalar:1.Masa,2.Masa,3.Masa,4.Masa,5.Masa,6.Masa,
+Amerikan - 8 Top default ucret : 30.0
+3 Bant default ucret : 40.0
+Tema : koyutema
+Yazi Boyutu : 14
+
+urunler:Kola,Ayran,Cay,Fanta,Gazoz,
+urunler basla
+Kola : 15.0
+Ayran : 10.0
+Cay : 5.0
+Fanta : 10.0
+Gazoz : 15.0
+urunler bitir
+
+Kullanım kılavuzu: 
+1-En ust satira masa isimlerini aralarda bosluksuz bir sekilde ',' ile ayirarak giriniz.
+Herhangi bir sekilde alt satira gecmeyiniz.
+2-Diğer satırlarda ise direk değerleri değiştirmeniz yeterlidir.
